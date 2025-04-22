@@ -1,5 +1,5 @@
-
-# Discord-Backend Static Web System
+# Discord Content Management System
+## a Discord-Backend Static Web System
 
 **Welcome to the beginning of something wild.**  
 This project is a radical rethink of what a “backend” actually is — no servers, no databases, no APIs in the traditional sense. Instead, we use [Discord](https://discord.com/) as our backend, and a [static site hosted on GitHub Pages](https://pages.github.com/) as the frontend. That’s it.
